@@ -18,7 +18,7 @@ Content/Scene_Bazaar_Vol1
 
 ----------------------------------------
 
-2- Plugins that need to be installed before running the project:
+2- Plugins that need to be installed in Unreal Engine before running the project:
 
 a- MetaHuman Plugin: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-for-unreal-engine
 
