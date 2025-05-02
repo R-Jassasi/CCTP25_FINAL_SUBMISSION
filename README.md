@@ -25,3 +25,7 @@ a- MetaHuman Plugin: https://dev.epicgames.com/documentation/en-us/metahuman/met
 b- Chaos Cloth plugin [Enable from Edit - Plugins]
 
 c- Convai Plugin LINK: https://docs.convai.com/api-docs/plugins-and-integrations/unreal-engine/installation
+
+
+------------------
+If there are problems running the editor, contact: rahil.aljassasi@outlook.com   OR    rahil2.aljassasi@live.uwe.ac.uk
