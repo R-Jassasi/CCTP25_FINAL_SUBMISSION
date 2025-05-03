@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------
 
-1- Before running the project, download the remining assets from here: https://uweacuk-my.sharepoint.com/:u:/g/personal/rahil2_aljassasi_live_uwe_ac_uk/EeSftpxATH1No7fG-r9I2XIB2RdGVHr4AegmZDja3UXtGg?e=O0tlly
+1- Before running the project, download the remining assets from here: https://uweacuk-my.sharepoint.com/:u:/g/personal/rahil2_aljassasi_live_uwe_ac_uk/EQYNX3FvxYhBvwTaz0rjB_ABk1X4lrFliuiMfTA5pce03Q?e=aDaGA2 
 
 Extract the zip files and you will have [MetaHumans - Scene_Bazaar_Vol1 - Fab]
 
